@@ -1,6 +1,3 @@
-
-![](http://Wayaer.cn:4000/get/@Wayaer.readme)
-
 ![Wayaer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayaer&show_icons=true&theme=transparent)
 
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wayaer&theme=xcode)](https://github.com/Wayaer)
