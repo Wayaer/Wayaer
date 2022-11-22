@@ -1,7 +1,7 @@
 
 ![](http://Wayaer.cn:4000/get/@Wayaer.readme)
 
-![info](https://github-readme-stats.vercel.app/api?username=Wayaer&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![Wayaer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayaer&show_icons=true&theme=transparent)
 
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wayaer&theme=xcode)](https://github.com/Wayaer)
 
