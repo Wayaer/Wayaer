@@ -1,12 +1,13 @@
 
-<!-- 贪吃蛇代码-->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Wayaer/Wayaer/snake/contribution-grid-snake.svg" /></div>
+![](http://Wayaer.cn:4000/get/@Wayaer.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=Wayaer&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wayaer&theme=xcode)](https://github.com/Wayaer)
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/wayaer/count.svg" />
+  <img src="https://profile-counter.glitch.me/Wayaer/count.svg" />
 </p>
 
 <!--
