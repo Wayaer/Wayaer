@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
 
 <p align="center"> 
   Visitor count<br>
