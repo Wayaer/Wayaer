@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
+[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wayaer&theme=xcode)](https://github.com/Wayaer)
 
 <p align="center"> 
   Visitor count<br>
