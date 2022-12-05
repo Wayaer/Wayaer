@@ -1,7 +1,5 @@
 [![Wayaer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayaer&theme=dracula)](https://github.com/Wayaer)
 
-[![Wayaer's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wayaer&theme=xcode)](https://github.com/Wayaer)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Wayaer/count.svg" />
