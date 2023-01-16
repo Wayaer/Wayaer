@@ -1,5 +1,3 @@
-[![Wayaer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayaer&theme=dracula)](https://github.com/Wayaer)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Wayaer/count.svg" />
